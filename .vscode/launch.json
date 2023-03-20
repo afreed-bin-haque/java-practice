@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "java-practice_90eafb3a"
+    },
+    {
+      "type": "java",
+      "name": "VariableType",
+      "request": "launch",
+      "mainClass": "VariableType",
+      "projectName": "java-practice_90eafb3a"
+    },
+    {
+      "type": "java",
       "name": "Launch VariableType",
       "request": "launch",
       "mainClass": "VariableType",
